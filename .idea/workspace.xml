@@ -4,17 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39d5461b-1757-419c-b4ea-bcd344dd0068" name="Default Changelist" comment="" />
+    <list default="true" id="39d5461b-1757-419c-b4ea-bcd344dd0068" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eladmin/eladmin-system/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eladmin/eladmin-system/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eladmin/eladmin-system/src/main/resources/config/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eladmin/eladmin-system/src/main/resources/config/application-prod.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\Dev\repo" />
-        <option name="mavenHome" value="D:\Dev\IntelliJ IDEA\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.2" />
         <option name="userSettingsFile" value="D:\Dev\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -28,8 +34,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppRun" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eladmin-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.zhengjie.AppRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +67,18 @@
       <option name="presentableId" value="Default" />
       <updated>1602416368349</updated>
       <workItem from="1602416370791" duration="5000" />
+      <workItem from="1602419003019" duration="22000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1602419014360">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602419014360" />
+    <state x="270" y="62" key="SettingsEditor" timestamp="1602419024636">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602419024636" />
   </component>
 </project>
